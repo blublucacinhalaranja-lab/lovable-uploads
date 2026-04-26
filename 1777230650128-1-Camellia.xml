@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Camellia.png"><SubTexture name=" Camellia_Down0000" x="481" y="0" width="483" height="493" frameX="0" frameY="2" frameWidth="480" frameHeight="493" />
+<SubTexture name=" Camellia_Down0001" x="964" y="0" width="482" height="489" frameX="-2" frameY="0" frameWidth="482" frameHeight="489" />
+<SubTexture name=" Camellia_Idle0000" x="481" y="1436" width="482" height="436" frameX="0" frameY="-17" frameWidth="482" frameHeight="453" />
+<SubTexture name=" Camellia_Idle0001" x="0" y="1436" width="481" height="443" frameX="0" frameY="-10" frameWidth="481" frameHeight="453" />
+<SubTexture name=" Camellia_Idle0002" x="1446" y="903" width="481" height="449" frameX="0" frameY="-3" frameWidth="481" frameHeight="453" />
+<SubTexture name=" Camellia_Idle0003" x="1446" y="0" width="482" height="452" frameX="0" frameY="0" frameWidth="482" frameHeight="453" />
+<SubTexture name=" Camellia_Idle0004" x="529" y="981" width="481" height="453" frameX="0" frameY="1" frameWidth="481" frameHeight="453" />
+<SubTexture name=" Camellia_Left0000" x="0" y="981" width="529" height="455" frameX="0" frameY="-10" frameWidth="529" frameHeight="465" />
+<SubTexture name=" Camellia_Left0001" x="479" y="495" width="508" height="465" frameX="-17" frameY="-1" frameWidth="529" frameHeight="465" />
+<SubTexture name=" Camellia_Right0000" x="1446" y="452" width="481" height="451" frameX="0" frameY="0" frameWidth="481" frameHeight="451" />
+<SubTexture name=" Camellia_Up0000" x="0" y="0" width="481" height="495" frameX="-1" frameY="-1" frameWidth="484" frameHeight="497" />
+<SubTexture name=" Camellia_Up0001" x="0" y="495" width="479" height="486" frameX="-4" frameY="-9" frameWidth="485" frameHeight="497" />
+</TextureAtlas>
